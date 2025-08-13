@@ -1,0 +1,7 @@
+/* Tailwind CSS directives.  If you configure tailwind, these directives will
+   generate the base, components and utilities styles. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional custom styles can be added here. */
