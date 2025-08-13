@@ -1,5 +1,18 @@
 # Goalvoro
 
+
+
+
+   ____       _       _             
+  / ___|  ___| | __ _| |_ ___  _ __ 
+  \___ \ / _ \ |/ _` | __/ _ \| '__|
+   ___) |  __/ | (_| | || (_) | |   
+  |____/ \___|_|\__,_|\__\___/|_|   
+
+Turning Performance into Adventure
+
+
+
 **Turning Performance into Adventure**
 
 Goalvoro is a gamified KPI & OKR tracking platform that transforms traditional performance management into a fun, quest-based experience.  
